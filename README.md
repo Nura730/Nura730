@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/arun-shanmugavel">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin">
+    <img src="www.linkedin.com/in/arun-shanmugavel-a6249b321&logo=linkedin">
   </a>
   <a href="https://github.com/Nura30">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
