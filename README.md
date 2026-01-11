@@ -56,7 +56,8 @@
 
 ## 🐍 Contribution "Snake"
 
-![Snake animation](https://github.com/Nura730/Nura730/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Nura730/Nura730/blob/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg
+)
 
 ---
 
