@@ -1,93 +1,68 @@
-<h1 align="center">Hi 👋 I'm Arun (Nura)</h1>
-<h3 align="center">Web Developer | Cybersecurity Learner</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/arun-shanmugavel">
-    <img src="www.linkedin.com/in/arun-shanmugavel-a6249b321&logo=linkedin">
-  </a>
-  <a href="https://github.com/Nura30">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=180&section=header&text=ARUN%20S&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h2 align="center">👋 Hi, I'm Arun (Nura)</h2>
+<p align="center">
+CSE Student | Frontend Developer | Cybersecurity Learner  
 </p>
 
 ---
 
 ## 🚀 About Me
-
-🎓 CSE Student – University College of Engineering, Kanchipuram  
-💻 Frontend Developer (HTML, CSS, JavaScript, React)  
-🔐 Cybersecurity Learner  
-🤖 Automation Enthusiast (n8n, Python scripting)  
-
-✔ Building real-world projects  
-✔ Exploring security & automation  
-✔ Focused on performance & clean UI  
+- 🎓 Student at **University College of Engineering, Kanchipuram**
+- 💻 Frontend Developer
+- 🛡 Learning Cybersecurity
+- ⚙ Automation enthusiast (n8n, Apps Script)
+- 🌱 Always learning & building
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+</p>
 
 ### Automation
+<p>
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge">
+<img src="https://img.shields.io/badge/n8n-ff3d00?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,git" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nura30&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nura30&layout=compact&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Portfolio
-
-👉 **Visit my portfolio:**  
-https://nuraportfolio.vercel.app
-
----
-
-## 🏆 Achievements
-
-✔ Completed cybersecurity courses  
-✔ Built automation workflows  
-✔ Active project builder  
-
----
-
-## 📌 Pinned Projects
-👉 Portfolio Website  
-👉 Automation Scripts  
-👉 React Projects  
-👉 Cybersecurity Labs  
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/Nura30/Nura30/blob/output/github-contribution-grid-snake.svg)
+👉 https://nuraportfolio.vercel.app
 
 ---
 
 ## 📬 Contact
-
-📧 Email: arunshanmugavel12@gmail.com 
-💼 LinkedIn: ![LinkedIn](www.linkedin.com/in/arun-shanmugavel-a6249b321)
-🐙 GitHub: https://github.com/Nura30  
+- 📧 Email: arunshanmugavel3726@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/arun-shanmugavel-a6249b321  
+- 🐙 GitHub: https://github.com/Nura730  
 
 ---
 
