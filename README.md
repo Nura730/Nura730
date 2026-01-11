@@ -1,20 +1,15 @@
 <!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:9333ea&height=200&section=header&text=ARUN%20S&fontSize=42&fontColor=ffffff)
 
-<!-- Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6366F1&center=true&vCenter=true&width=500&lines=CSE+Student;Frontend+Developer;Automation+Builder;Cybersecurity+Learner" />
-</p>
-
 ---
 
 ## 👋 About Me
 🎓 CSE Student at **University College of Engineering, Kanchipuram**  
 💻 Frontend Developer  
 ⚙️ Automation Builder  
-🛡️ Learning Cybersecurity  
+🛡️ Cybersecurity Learner  
 
-I love building real-world projects, automations, and secure systems.
+I build real-world web apps, automation systems and learn security hands-on.
 
 ---
 
@@ -42,7 +37,7 @@ I love building real-world projects, automations, and secure systems.
 ---
 
 ## 🌐 Portfolio
-![PortFolio👉](https://nuraportfolio.vercel.app)
+👉 https://nuraportfolio.vercel.app
 
 ---
 
