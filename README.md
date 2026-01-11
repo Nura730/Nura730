@@ -42,7 +42,7 @@ I love building real-world projects, automations, and secure systems.
 ---
 
 ## 🌐 Portfolio
-👉 https://nuraportfolio.vercel.app
+![PortFolio👉](https://nuraportfolio.vercel.app)
 
 ---
 
