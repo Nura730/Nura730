@@ -30,11 +30,10 @@ I build real-world web apps, automation systems and learn security hands-on.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
