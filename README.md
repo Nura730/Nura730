@@ -40,11 +40,12 @@ CSE Student | Frontend Developer | Cybersecurity Learner
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=tokyonight" />
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:9333ea&height=200&text=ARUN%20S&fontSize=40&fontColor=ffffff)
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight" />
+<img src="![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:9333ea&height=200&text=ARUN%20S&fontSize=40&fontColor=ffffff)
+">
 </p>
 
 ---
