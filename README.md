@@ -40,7 +40,7 @@ CSE Student | Frontend Developer | Cybersecurity Learner
 
 ## 📊 GitHub Stats
 <p align="center">
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:9333ea&height=200&text=ARUN%20S&fontSize=40&fontColor=ffffff)
+<img src="![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:9333ea&height=200&text=ARUN%20S&fontSize=40&fontColor=ffffff)">
 </p>
 
 <p align="center">
