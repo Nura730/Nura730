@@ -1,9 +1,9 @@
-<!-- PROFILE BANNER -->
+<!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Arun%20S&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Frontend+Developer;Automation+Builder;Cybersecurity+Learner&center=true&width=500&height=45">
 </p>
@@ -18,30 +18,23 @@
 
 ---
 
-## 🛠 Skill Badges
+## 🛠 Tech Stack
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-100%25-orange)
-![CSS](https://img.shields.io/badge/CSS-100%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow)
-![Tailwind](https://img.shields.io/badge/Tailwind-100%25-cyan)
-![React](https://img.shields.io/badge/React-50%25-blue)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+</p>
 
-### Automation
-![n8n](https://img.shields.io/badge/n8n-90%25-purple)
-![Apps Script](https://img.shields.io/badge/Apps%20Script-70%25-green)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,linux" />
+</p>
 
-### Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-75%25-black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-red)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-75%25-orange)
-![VS Code](https://img.shields.io/badge/VS%20Code-100%25-blue)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 🔹 Restaurant Website  
 🔹 Log Management System  
 🔹 Naval Portfolio  
@@ -61,8 +54,14 @@
 
 ---
 
+## 🐍 Contribution "Snake"
+
+![Snake animation](https://github.com/Nura730/Nura730/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Portfolio
-👉 https://your-portfolio-link.com  
+👉 (https://nuraportfolio.vercel.app)
 
 ---
 
@@ -73,4 +72,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
