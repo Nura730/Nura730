@@ -1,14 +1,14 @@
-<!-- DARK NEON PROFILE BANNER -->
+<!-- HACKER TERMINAL + NEON PROFILE BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ARUN%20SHANMUGAVEL&fontSize=40&fontColor=00f5ff&animation=fadeIn" />&fontSize=44&fontColor=00f5ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=ARUN%20SHANMUGAVEL&fontSize=40&fontColor=00f5ff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Automation+Builder;Cybersecurity+Learner;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Automation+Builder;Frontend+Developer;Hacker+Mindset+%F0%9F%94%A5" />
 </p>
 
-<h3 align="center" style="color:#00f5ff">Dark Neon Tech Portfolio</h3>
+<h3 align="center" style="color:#00f5ff">> Building everything securely, one system at a time.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nura730&style=flat-square&color=00f5ff" />
@@ -22,9 +22,9 @@
 🎓 CSE Student at **University College of Engineering, Kanchipuram**
 💻 Frontend Developer (React, modern UI)
 ⚙ Automation Builder (scripts, bots)
-🛡 Cybersecurity Learner (hands-on labs)
+🛡 **Cybersecurity Focus** – learning penetration testing & security analysis
 
-> I design, build, and optimize real-world applications while actively learning security and automation.
+> I build applications with a **security-first mindset** and practice real-world attack & defense techniques.
 
 ---
 
@@ -36,20 +36,36 @@
 
 ---
 
-## 🚀 Real Projects
+## 🚀 Featured Projects
 
-| Project               | Description                    | Live / Repo                                                               | Tech                |
+> Showing only **major projects**. Others will be published soon.
+
+| Project               | Description                    | Live                                                                      | Tech                |
 | --------------------- | ------------------------------ | ------------------------------------------------------------------------- | ------------------- |
-| **HostelFix**         | Smart hostel management system | ⏳ *In development*                                                        | React, Flask, MySQL |
 | **Portfolio Website** | Animated personal site         | 🔗 [https://nuraportfolio.vercel.app/](https://nuraportfolio.vercel.app/) | HTML, CSS, JS, GSAP |
-| **Automation Tools**  | Bots & scripts                 | ❌ *Not published yet*                                                     | Python              |
-| **Security Labs**     | Practice labs & writeups       | ❌ *Not published yet*                                                     | Kali, Burp, Nmap    |
+| **HostelFix**         | Smart hostel management system | ⏳ In development                                                          | React, Flask, MySQL |
 
 ---
 
 ## 📜 Certifications
 
 * 🏅 **Building with AI** – *Saylor.org*
+
+---
+
+## 🏆 Achievements
+
+* Actively building personal security labs
+* Practicing ethical hacking fundamentals
+* Developing automation scripts for security tasks
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nura730&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -69,20 +85,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Career Goal
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg" />
-</p>
+🎯 Target role: **Cybersecurity Analyst / Ethical Hacker**
 
----
-
-## 🎯 Current Goals
-
-* Master React & backend integration
-* Build SaaS-grade applications
-* Learn ethical hacking & penetration testing
-* Contribute to open-source
+* Red team & blue team skills
+* Bug bounty practice
+* Security automation
 
 ---
 
@@ -92,9 +101,9 @@
   <a href="https://nuraportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/nura-dev"><img src="https://img.shields.io/badge/LinkedIn-00f5ff?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:arunshanmugavel12@gmail.com"><img src="https://img.shields.io/badge/Email-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-00f5ff?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
+  <a href="https://drive.google.com/file/d/18kJlLqTP6PE_TlWF2nRNgIhxBkEqcA4w/view"><img src="https://img.shields.io/badge/Resume-00f5ff?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
 </p>
 
 ---
 
-<p align="center" style="color:#00f5ff">⚡ Consistency builds empires ⚡</p>
+<p align="center" style="color:#00f5ff">> Hack to learn, learn to protect ⚡</p>
