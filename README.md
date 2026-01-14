@@ -1,39 +1,100 @@
-# Hi, I'm Arun S! 👋 Cyber Security Enthusiast & Full-Stack Developer
+<!-- DARK NEON PROFILE BANNER -->
 
-[![@Nura730's Holopin Achievements](https://holopin.me/nura730)](https://holopin.io/@nura730)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ARUN%20SHANMUGAVEL&fontSize=40&fontColor=00f5ff&animation=fadeIn" />&fontSize=44&fontColor=00f5ff&animation=fadeIn" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=radical&hide_border=true&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=default&hide_border=true&border_radius=12" />
-  <img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&hide_border=true&border_radius=12" />
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Automation+Builder;Cybersecurity+Learner;Building+Real-World+Projects" />
+</p>
 
-[![Snake animation](https://github.com/Nura730/Nura730/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Nura730/Nura730)
-[![Snake animation](https://github.com/Nura730/Nura730/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Nura730/Nura730)
+<h3 align="center" style="color:#00f5ff">Dark Neon Tech Portfolio</h3>
 
-### 🚀 About Me
-- 🎓 **B.E. Computer Science & Engineering** | University College of Engineering, Kanchipuram (2024–2028)
-- 💻 Full-Stack Developer skilled in React, Node.js, HTML/CSS/JS, Tailwind, n8n, Google Apps Script
-- 🔒 Passionate about **Cybersecurity** – aiming to achieve big in threat detection & secure systems
-- 🎨 3D Modeling & Animation with Blender | Video Editing | Portfolio Builder
-- 📧 Open to freelance, internships & collaborations: [arunshanmugavel12@gmail.com](mailto:arunshanmugavel12@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nura730&style=flat-square&color=00f5ff" />
+  <img src="https://img.shields.io/github/followers/Nura730?label=Followers&style=flat-square&color=00f5ff" />
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=react,nodejs,js,css,html,tailwind,figma,blender,npm,git,vercel)](https://skillicons.dev)
+---
 
-### ✨ Featured Projects
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| Log System | Automation & logging app with JS & Apps Script | HTML/CSS/JS/Apps Script/n8n | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=log-system&theme=radical)](https://github.com/Nura730/log-system) |
-| Restaurant Site | Dynamic business website | HTML/CSS/JS | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=restaurant-site&theme=radical)](https://github.com/Nura730/restaurant-site) |
-| Naval Portfolio | Naval-themed interactive site | Tailwind/JS | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=naval-portfolio&theme=radical)](https://github.com/Nura730/naval-portfolio) |
-| Professional Portfolio | Full-stack showcase | HTML/CSS/JS/React | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=professional-portfolio&theme=radical)](https://github.com/Nura730/professional-portfolio) |
+## 👋 About Me
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact&theme=radical&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+🎓 CSE Student at **University College of Engineering, Kanchipuram**
+💻 Frontend Developer (React, modern UI)
+⚙ Automation Builder (scripts, bots)
+🛡 Cybersecurity Learner (hands-on labs)
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-shanmugavel-a6249b321)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-0ea5e9?style=flat&logo=react&logoColor=white)](https://perumal-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-ff4747?style=flat&logo=gmail&logoColor=white)](mailto:arunshanmugavel12@gmail.com)
+> I design, build, and optimize real-world applications while actively learning security and automation.
 
-![Footer](https://komarev.com/ghpvc/?username=Nura730&color=radical&style=flat-square&label=PROFILE+VIEWS)
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,linux,vscode,tailwind,nodejs" />
+</p>
+
+---
+
+## 🚀 Real Projects
+
+| Project               | Description                    | Live / Repo                                                               | Tech                |
+| --------------------- | ------------------------------ | ------------------------------------------------------------------------- | ------------------- |
+| **HostelFix**         | Smart hostel management system | ⏳ *In development*                                                        | React, Flask, MySQL |
+| **Portfolio Website** | Animated personal site         | 🔗 [https://nuraportfolio.vercel.app/](https://nuraportfolio.vercel.app/) | HTML, CSS, JS, GSAP |
+| **Automation Tools**  | Bots & scripts                 | ❌ *Not published yet*                                                     | Python              |
+| **Security Labs**     | Practice labs & writeups       | ❌ *Not published yet*                                                     | Kali, Burp, Nmap    |
+
+---
+
+## 📜 Certifications
+
+* 🏅 **Building with AI** – *Saylor.org*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* Master React & backend integration
+* Build SaaS-grade applications
+* Learn ethical hacking & penetration testing
+* Contribute to open-source
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://nuraportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/nura-dev"><img src="https://img.shields.io/badge/LinkedIn-00f5ff?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:arunshanmugavel12@gmail.com"><img src="https://img.shields.io/badge/Email-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-00f5ff?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
+</p>
+
+---
+
+<p align="center" style="color:#00f5ff">⚡ Consistency builds empires ⚡</p>
