@@ -42,7 +42,8 @@
 
 | Project               | Description                    | Live                                                                      | Tech                |
 | --------------------- | ------------------------------ | ------------------------------------------------------------------------- | ------------------- |
-| **Portfolio Website** | Animated personal site         | 🔗 [https://nuraportfolio.vercel.app/](https://nuraportfolio.vercel.app/) | React, TailwindCSS |
+| **Portfolio Website** | Animated personal site         | 🔗 [PortFolio](https://nuraportfolio.vercel.app/)                        | React, TailwindCSS |
+| **Log System**        | Log System to manage small team| 🔗 [Log System](https://invodes-log-system.vercel.app/)                  |HTML,CSS,JS,App Script| 
 | **HostelFix**         | Smart hostel management system | ⏳ In development                                                          | React, Flask, MySQL |
 
 ---
