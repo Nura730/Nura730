@@ -60,16 +60,12 @@
 * Developing automation scripts for security tasks
 
 ---
-## 🏅 GitHub Trophies
-![Trophies](https://ghproxy.com/https://github-profile-trophy.vercel.app/?username=Nura730&theme=matrix)
+## 📊 GitHub Activity
 
-
-## 📊 GitHub Stats
-![Stats](https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true)
-
-![Streak](https://ghproxy.com/https://github-readme-streak-stats.herokuapp.com/?user=Nura730)
-
-![Langs](https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact)
+![Repos](https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Nura730?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Nura730?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Nura730&style=for-the-badge)
 
 
 ---
