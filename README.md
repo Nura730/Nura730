@@ -42,7 +42,7 @@
 
 | Project               | Description                    | Live                                                                      | Tech                |
 | --------------------- | ------------------------------ | ------------------------------------------------------------------------- | ------------------- |
-| **Portfolio Website** | Animated personal site         | 🔗 [https://nuraportfolio.vercel.app/](https://nuraportfolio.vercel.app/) | HTML, CSS, JS, GSAP |
+| **Portfolio Website** | Animated personal site         | 🔗 [https://nuraportfolio.vercel.app/](https://nuraportfolio.vercel.app/) | React, TailwindCSS |
 | **HostelFix**         | Smart hostel management system | ⏳ In development                                                          | React, Flask, MySQL |
 
 ---
