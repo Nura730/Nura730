@@ -61,26 +61,16 @@
 
 ---
 ## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nura730&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
+![Trophies](https://ghproxy.com/https://github-profile-trophy.vercel.app/?username=Nura730&theme=matrix)
 
-
----
 
 ## 📊 GitHub Stats
+![Stats](https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=tokyonight" />
-</p>
+![Streak](https://ghproxy.com/https://github-readme-streak-stats.herokuapp.com/?user=Nura730)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight" />
-</p>
+![Langs](https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
