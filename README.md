@@ -1,96 +1,80 @@
-<!-- HACKER TERMINAL + NEON PROFILE BANNER -->
+# Hi 👋 I'm Nura
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=ARUN%20SHANMUGAVEL&fontSize=40&fontColor=00f5ff&animation=fadeIn" />
-</p>
+### Aspiring Cybersecurity Analyst | Full-Stack Learner
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Automation+Builder;Frontend+Developer;Hacker+Mindset+%F0%9F%94%A5" />
-</p>
+💻 Computer Science student passionate about building real-world projects.
+🌐 Currently learning **Full-Stack Development** and planning to move deeper into **Cybersecurity**.
+🔐 Interested in **system security, ethical hacking, and web security**.
 
-<h3 align="center" style="color:#00f5ff">> Building everything securely, one system at a time.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nura730&style=flat-square&color=00f5ff" />
-  <img src="https://img.shields.io/github/followers/Nura730?label=Followers&style=flat-square&color=00f5ff" />
-</p>
+⚡ Curious about how systems work — and how attackers try to break them.
 
 ---
 
-## 👋 About Me
+## 🚀 Tech Stack
 
-🎓 CSE Student at **University College of Engineering, Kanchipuram**
-💻 Frontend Developer (React, modern UI)
-⚙ Automation Builder (scripts, bots)
-🛡 **Cybersecurity Focus** – learning penetration testing & security analysis
+### Languages
 
-> I build applications with a **security-first mindset** and practice real-world attack & defense techniques.
+* Python
+* JavaScript
+* C
 
----
+### Frontend
 
-## 🧰 Tech Stack
+* HTML
+* CSS
+* React
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,linux,vscode,tailwind,nodejs" />
-</p>
+### Backend
 
----
+* Node.js
 
-## 🚀 Featured Projects
+### Databases
 
-> Showing only **major projects**. Others will be published soon.
-
-| Project               | Description                    | Live                                                                      | Tech                |
-| --------------------- | ------------------------------ | ------------------------------------------------------------------------- | ------------------- |
-| **Portfolio Website** | Animated personal site         | 🔗 [PortFolio](https://nuraportfolio.vercel.app/)                        | React, TailwindCSS |
-| **Log System**        | Log System to manage small team| 🔗 [Log System](https://invodes-log-system.vercel.app/)                  |HTML,CSS,JS,App Script| 
-| **HostelFix**         | Smart hostel management system | ⏳ In development                                                        | React, Flask, MySQL |
-| **Expense Tracker**   | Personalized Expense Tracker   | ⏳ In development                                                        | Kotlin              |
+* MongoDB
+* SQL
 
 ---
 
-## 📜 Certifications
+## 📌 Featured Projects
 
-* 🏅 **Building with AI** – *Saylor.org*
+### 💰 Expense Tracker
 
----
+A web application to track and manage daily expenses.
 
-## 🏆 Achievements
+### 🚗 ParkShare *(Currently Building)*
 
-* Actively building personal security labs
-* Practicing ethical hacking fundamentals
-* Developing automation scripts for security tasks
+A platform for sharing and finding parking spaces.
 
----
-## 📊 GitHub Activity
+### 🏨 HostelFix *(In Development)*
 
-![Repos](https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Nura730?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Nura730?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Nura730&style=for-the-badge)
+A system for reporting and managing hostel maintenance issues.
 
+### 🌐 Portfolio Website
+
+My personal developer portfolio showcasing my projects and skills.
 
 ---
 
-## 🎯 Career Goal
+## 🌱 Currently Learning
 
-🎯 Target role: **Cybersecurity Analyst / Ethical Hacker**
-
-* Red team & blue team skills
-* Bug bounty practice
-* Security automation
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://nuraportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/nura-dev"><img src="https://img.shields.io/badge/LinkedIn-00f5ff?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:arunshanmugavel12@gmail.com"><img src="https://img.shields.io/badge/Email-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://drive.google.com/file/d/18kJlLqTP6PE_TlWF2nRNgIhxBkEqcA4w/view"><img src="https://img.shields.io/badge/Resume-00f5ff?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
-</p>
+* Full-Stack Development
+* Backend APIs
+* Web Application Architecture
+* Preparing for Cybersecurity
 
 ---
 
-<p align="center" style="color:#00f5ff">> Hack to learn, learn to protect ⚡</p>
+## 🌍 Connect With Me
+
+Portfolio
+https://nuraportfolio.vercel.app/
+
+LinkedIn
+[www.linkedin.com/in/nura-dev](http://www.linkedin.com/in/nura-dev)
+
+GitHub
+https://github.com/Nura730
+
+---
+
+⭐ Always learning. Always building.
