@@ -1,68 +1,119 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Nura;Aspiring+Cybersecurity+Analyst;Full+Stack+Developer;Future+Security+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Nura;Aspiring+Cybersecurity+Analyst;Full+Stack+Developer;Security+Enthusiast;Learning+How+Systems+Work+%26+Break+Them" />
 </p>
+
+---
+
+# 🖥 Cyber Terminal
+
+```bash
+> whoami
+Nura
+
+> role
+Aspiring Cybersecurity Analyst
+
+> currently_learning
+Full Stack Development
+
+> future_goal
+Cybersecurity Research & Ethical Hacking
+```
 
 ---
 
 # 👨‍💻 About Me
 
-🔐 Aspiring **Cybersecurity Analyst**
-💻 Currently learning **Full-Stack Development**
-🚀 Building real-world applications and preparing to move deeper into **Cybersecurity**
+💻 Computer Science Student
+🌐 Learning **Full-Stack Development**
+🔐 Preparing to specialize in **Cybersecurity**
 
 ⚡ Curious about how systems work — and how attackers try to break them.
 
 ---
 
-# 🧠 Tech Stack
+# 🧠 Skills
+
+### Programming
+
+Python ▰▰▰▰▰▰▰▰▱▱
+JavaScript ▰▰▰▰▰▰▱▱▱▱
+C ▰▰▰▰▰▱▱▱▱▱
+
+### Web Development
+
+HTML ▰▰▰▰▰▰▰▰▱▱
+CSS ▰▰▰▰▰▰▱▱▱▱
+React ▰▰▰▰▰▱▱▱▱▱
+Node.js ▰▰▰▰▱▱▱▱▱▱
+
+### Databases
+
+MongoDB ▰▰▰▰▰▱▱▱▱▱
+SQL ▰▰▰▰▰▱▱▱▱▱
+
+---
+
+# 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,mongodb,mysql,git,vscode" />
-
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,mongodb,mysql,git,vscode&perline=6"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 💰 MyExpenseTracker
+<p align="center">
 
-Track daily expenses and manage personal finances.
+<a href="https://github.com/Nura730/MyExpenseTracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=MyExpenseTracker&theme=tokyonight&hide_border=true"/>
+</a>
 
-🔗 https://github.com/Nura730/MyExpenseTracker
+<a href="https://github.com/Nura730/ParkShare">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=ParkShare&theme=tokyonight&hide_border=true"/>
+</a>
 
----
+<a href="https://github.com/Nura730/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=portfolio&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🚗 ParkShare *(Currently Building)*
-
-Platform to share and discover available parking spaces.
-
-🔗 https://github.com/Nura730/ParkShare
-
----
-
-### 🏨 HostelFix *(In Development)*
-
-Hostel maintenance issue reporting system.
+</p>
 
 ---
 
-### 🌐 Portfolio Website
-
-🔗 https://github.com/Nura730/portfolio
-🌍 https://nuraportfolio.vercel.app/
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nura730&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nura730&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nura730&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nura730&theme=tokyonight"/>
 </p>
 
 ---
@@ -70,9 +121,7 @@ Hostel maintenance issue reporting system.
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -80,9 +129,7 @@ Hostel maintenance issue reporting system.
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nura730&label=Profile%20Views&color=0e75b6&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=Nura730&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
