@@ -1,88 +1,127 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Nura;Aspiring+Cybersecurity+Analyst;Full+Stack+Developer;Security+Enthusiast;Learning+How+Systems+Work+%26+Break+Them" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Nura;Full+Stack+Developer+%7C+Cybersecurity+Explorer;Building+Systems+That+Think+%26+Defend;Learning+How+Systems+Work+%E2%80%94+And+How+They+Break" />
+
 </p>
 
 ---
 
-# 🖥 Cyber Terminal
+# SYSTEM TERMINAL
 
 ```bash
 > whoami
 Nura
 
 > role
-Aspiring Cybersecurity Analyst
+Full Stack Developer
 
-> currently_learning
-Full Stack Development
+> current_focus
+MERN Stack • Cybersecurity • System Design
 
-> future_goal
-Cybersecurity Research & Ethical Hacking
+> interests
+Authentication • APIs • Linux • Security Research
+
+> mission
+Build secure, scalable systems and understand how attackers exploit weak ones
 ```
 
 ---
 
-# 👨‍💻 About Me
+# ABOUT ME
 
-💻 Computer Science Student
-🌐 Learning **Full-Stack Development**
-🔐 Preparing to specialize in **Cybersecurity**
+Computer Science student focused on full-stack development, backend systems, and cybersecurity fundamentals.
 
-⚡ Curious about how systems work — and how attackers try to break them.
+I enjoy building real-world applications, understanding system architecture, and exploring how security vulnerabilities happen.
 
----
-
-# 🧠 Skills
-
-### Programming
-
-Python ▰▰▰▰▰▰▰▰▱▱
-JavaScript ▰▰▰▰▰▰▱▱▱▱
-C ▰▰▰▰▰▱▱▱▱▱
-
-### Web Development
-
-HTML ▰▰▰▰▰▰▰▰▱▱
-CSS ▰▰▰▰▰▰▱▱▱▱
-React ▰▰▰▰▰▱▱▱▱▱
-Node.js ▰▰▰▰▱▱▱▱▱▱
-
-### Databases
-
-MongoDB ▰▰▰▰▰▱▱▱▱▱
-SQL ▰▰▰▰▰▱▱▱▱▱
+Currently transitioning from web development into deeper security and infrastructure concepts.
 
 ---
 
-# 🧰 Tech Stack
+# CURRENTLY LEARNING
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,mongodb,mysql,git,vscode&perline=6"/>
-</p>
+- MERN Stack Architecture
+- Authentication & JWT Security
+- API Security Fundamentals
+- Linux & Networking Basics
+- OWASP Top 10
+- Backend Scalability Concepts
+- System Design Thinking
 
 ---
 
-# 🚀 Featured Projects
+# TECH STACK
 
 <p align="center">
 
-<a href="https://github.com/Nura730/MyExpenseTracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=MyExpenseTracker&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Nura730/ParkShare">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=ParkShare&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Nura730/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nura730&repo=portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://skillicons.dev/icons?i=javascript,python,c,react,nodejs,express,mongodb,mysql,html,css,git,linux,vscode&perline=7" />
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# FEATURED PROJECTS
+
+## LifeOS
+
+> Behavioral life operating system focused on habit tracking, consistency scoring, and AI-powered insights.
+
+### Core Features
+
+- Identity-based progression system
+- AI-generated behavioral feedback
+- Consistency scoring engine
+- Authentication system
+- Real-time tracking architecture
+
+### Stack
+
+React • Node.js • Express • MongoDB • JWT
+
+---
+
+## Social App
+
+> Full-stack social media platform with authentication, user interaction systems, and scalable backend structure.
+
+### Features
+
+- User authentication
+- Protected routes
+- Real-time interaction flow
+- REST API architecture
+- MongoDB schema design
+
+---
+
+## ParkShare
+
+> Smart parking-sharing platform designed to improve urban parking accessibility and utilization.
+
+### Features
+
+- Location-based system design
+- Booking flow architecture
+- Scalable backend structure
+- Real-world problem solving approach
+
+---
+
+# ENGINEERING INTERESTS
+
+```txt
+• Backend Architecture
+• API Security
+• Authentication Systems
+• Secure Application Design
+• System Scalability
+• Linux Environments
+• Ethical Hacking Fundamentals
+• Offensive Security Concepts
+```
+
+---
+
+# GITHUB ANALYTICS
 
 <p align="center">
 
@@ -94,57 +133,60 @@ SQL ▰▰▰▰▰▱▱▱▱▱
 
 ---
 
-# 🔥 Contribution Streak
+# CONTRIBUTION GRAPH
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nura730&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nura730&theme=matrix&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 📈 3D Contribution Graph
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nura730&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/Nura730/Nura730/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# 👀 Profile Views
+# CURRENT GOALS
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nura730&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+```txt
+[ ] Master Full-Stack System Design
+[ ] Learn Advanced Backend Security
+[ ] Build Production-Ready Applications
+[ ] Study Offensive Security Concepts
+[ ] Contribute to Open Source
+[ ] Explore Cybersecurity Research
+```
 
 ---
 
-# 🌐 Connect With Me
+# CONNECT
 
-Portfolio
+🌐 Portfolio  
 https://nuraportfolio.vercel.app/
 
-LinkedIn
-https://www.linkedin.com/in/nura-dev
-
-GitHub
+💻 GitHub  
 https://github.com/Nura730
 
+🔗 LinkedIn  
+https://linkedin.com/in/nura-dev
+
 ---
+
+# FINAL TRANSMISSION
+
+```bash
+while(alive) {
+    learn();
+    build();
+    break_and_fix_systems();
+}
+```
 
 ⭐ Always learning. Always building.
