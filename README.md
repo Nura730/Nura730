@@ -34,23 +34,20 @@ Cybersecurity Research & Ethical Hacking
 
 # 🧠 Skills
 
-### Programming
+Languages:
+JavaScript, TypeScript, Python, C
 
-Python ▰▰▰▰▰▰▰▰▱▱
-JavaScript ▰▰▰▰▰▰▱▱▱▱
-C ▰▰▰▰▰▱▱▱▱▱
+Frontend:
+React, HTML, CSS, Tailwind
 
-### Web Development
+Backend:
+Node.js, Express
 
-HTML ▰▰▰▰▰▰▰▰▱▱
-CSS ▰▰▰▰▰▰▱▱▱▱
-React ▰▰▰▰▰▱▱▱▱▱
-Node.js ▰▰▰▰▱▱▱▱▱▱
+Database:
+MongoDB, MySQL
 
-### Databases
-
-MongoDB ▰▰▰▰▰▱▱▱▱▱
-SQL ▰▰▰▰▰▱▱▱▱▱
+Tools:
+Git, GitHub, VS Code
 
 ---
 
