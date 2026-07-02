@@ -134,7 +134,7 @@ Git, GitHub, VS Code
 # 🌐 Connect With Me
 
 Portfolio
-https://nuraportfolio.vercel.app/
+https://nuraportfolio.vercel.app
 
 LinkedIn
 https://www.linkedin.com/in/nura-dev
